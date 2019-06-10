@@ -4,10 +4,17 @@ A simple browser extension provides a way to adjust playback rate for videos on 
 
 ## How to install
 
+### From Chrome store
+1. Go to https://chrome.google.com/webstore/detail/speed-it-up/nfiebcmdfpjodedomagjlajcdpnkdopm
+2. Click 'Add to Chrome' and confirm
+
+### From GitHub
+
 1. Download the [zip from Github](https://github.com/devenbansod/speed-it-up/releases)
 2. Open Google Chrome and go to [chrome://extensions](chrome://extensions)
 3. Enable 'Developer Mode' (toggle on right side of the topbar)
 4. Click on 'Load unpacked' button (towards left side of the topbar) and select the downloaded zip
+
 
 ## How to use
 
