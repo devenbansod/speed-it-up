@@ -3,7 +3,6 @@
     "version": "0.0.1",
     "description": "Adds a browser action that provides a way to adjust playback rate on any website",
     "permissions": [
-        "tabs",
         "activeTab",
         "storage"
     ],
