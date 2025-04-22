@@ -20,6 +20,8 @@ To function properly, the extension requires the following permissions:
 
 - **`activeTab`**: Allows the extension to interact with the active tab when you click the extension icon.
 - **`storage`**: Used to save your preferred playback speed and settings locally.
+- **`scripting`**: Enables the extension to inject code that adjusts video playback speeds on webpages.
+
 
 These permissions are used **solely** to provide the extension’s core functionality. We do **not** use them to track your browsing activity or collect any personal data.
 
